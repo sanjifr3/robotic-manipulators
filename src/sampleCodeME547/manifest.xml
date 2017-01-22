@@ -1,0 +1,22 @@
+<package>
+  <description brief="sampleCodeME547">
+
+     sampleCodeME547
+
+  </description>
+  <author>sid-ROS</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/sampleCodeME547</url>
+	<depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+  <depend package="geometry_msgs"/>
+  <depend package="sensor_msgs"/>
+	<depend package="opencv2"/>
+	<depend package="image_transport"/>
+	<depend package="cv_bridge"/>
+	<depend package="uvc_camera"/>
+</package>
+
+

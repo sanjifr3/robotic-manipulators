@@ -1,0 +1,21 @@
+<package>
+  <description brief="checkerBoardPoseCalculate">
+
+checkerBoardPoseCalculate
+
+  </description>
+  <author>Sid</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/checkerBoardPoseCalculate</url>
+  <depend package="opencv2"/>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="cv_bridge"/>
+  <depend package="image_transport"/>
+  <depend package="image_geometry"/>
+  <depend package="tf"/>
+</package>
+
+
